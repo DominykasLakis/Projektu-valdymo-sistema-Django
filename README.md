@@ -1,0 +1,1 @@
+# Projektu valdymo sistema Django
